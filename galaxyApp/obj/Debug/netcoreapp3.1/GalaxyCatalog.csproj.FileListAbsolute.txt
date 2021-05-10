@@ -1,0 +1,13 @@
+C:\Users\Rituala\Downloads\1\galaxyApp\bin\Debug\netcoreapp3.1\GalaxyCatalog.exe
+C:\Users\Rituala\Downloads\1\galaxyApp\bin\Debug\netcoreapp3.1\GalaxyCatalog.deps.json
+C:\Users\Rituala\Downloads\1\galaxyApp\bin\Debug\netcoreapp3.1\GalaxyCatalog.runtimeconfig.json
+C:\Users\Rituala\Downloads\1\galaxyApp\bin\Debug\netcoreapp3.1\GalaxyCatalog.runtimeconfig.dev.json
+C:\Users\Rituala\Downloads\1\galaxyApp\bin\Debug\netcoreapp3.1\GalaxyCatalog.dll
+C:\Users\Rituala\Downloads\1\galaxyApp\bin\Debug\netcoreapp3.1\GalaxyCatalog.pdb
+C:\Users\Rituala\Downloads\1\galaxyApp\obj\Debug\netcoreapp3.1\GalaxyCatalog.csprojAssemblyReference.cache
+C:\Users\Rituala\Downloads\1\galaxyApp\obj\Debug\netcoreapp3.1\GalaxyCatalog.AssemblyInfoInputs.cache
+C:\Users\Rituala\Downloads\1\galaxyApp\obj\Debug\netcoreapp3.1\GalaxyCatalog.AssemblyInfo.cs
+C:\Users\Rituala\Downloads\1\galaxyApp\obj\Debug\netcoreapp3.1\GalaxyCatalog.csproj.CoreCompileInputs.cache
+C:\Users\Rituala\Downloads\1\galaxyApp\obj\Debug\netcoreapp3.1\GalaxyCatalog.dll
+C:\Users\Rituala\Downloads\1\galaxyApp\obj\Debug\netcoreapp3.1\GalaxyCatalog.pdb
+C:\Users\Rituala\Downloads\1\galaxyApp\obj\Debug\netcoreapp3.1\GalaxyCatalog.genruntimeconfig.cache
